@@ -1,0 +1,50 @@
+algorithm : K-Means ,
+WSSE: 331.27443682899724,clusters:[ {
+	id: 1,
+	size: 1,
+	error: 47.94292203894926,
+	terms: List(piece, one, cakes, light, felt, sponge, watch, pork, whipped, fruit)
+},
+{
+	id: 2,
+	size: 1,
+	error: 42.67705557777605,
+	terms: List(food, wrong, order, us, waited, people, table, got, place, waiting)
+},
+{
+	id: 3,
+	size: 86,
+	error: 43.61280720252262,
+	terms: List(us, would, said, back, get, time, even, could, like, told)
+},
+{
+	id: 4,
+	size: 1,
+	error: 36.18976365945784,
+	terms: List(want, good, customers, still, though, ive, felt, service, customer, business)
+},
+{
+	id: 5,
+	size: 3,
+	error: 45.99435210329664,
+	terms: List(great, beef, food, place, delicious, burrito, half, service, attentive, 12)
+},
+{
+	id: 6,
+	size: 1,
+	error: 36.340455578926324,
+	terms: List(food, time, friends, among, wine, tartar, think, essentials, extra, staff)
+},
+{
+	id: 7,
+	size: 906,
+	error: 44.90968796304792,
+	terms: List(like, place, good, food, one, time, get, great, would, back)
+},
+{
+	id: 8,
+	size: 1,
+	error:33.607392705020565,
+	terms: List(want, good, customers, still, though, ive, felt, service, customer, business)
+}, 
+]

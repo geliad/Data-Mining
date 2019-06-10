@@ -1,0 +1,33 @@
+algorithm : Kmeans,
+WSSE : 466.3802865853964,clusters: [ {
+	id: 1,
+	size: 1,
+	error: 14.36674526,
+	terms: List(fabulous, gras, brie, foie, apple, duck, experience, love, smoked, cheesecake)
+
+},
+{
+	id: 2,
+	size: 1,
+	error: 0.26393356452837663,
+	terms: List(loupes, snap, light, optics, could, see, ray, much, prescription, came)
+},
+{
+	id: 3,
+	size: 988,
+	error: 5.63325474,
+	terms: List(like, place, good, food, one, time, get, great, would, back)
+},
+{
+	id: 4,
+	size: 2,
+	error: 332.116353020868,
+	terms: List(banner, 360, image, brad, easier, tables, could, kelsey, dealing, came)
+},
+{
+	id: 5,
+	size: 8,
+	error: 114.468223441,
+	terms: List(burger, one, cheese, favorite, always, good, menu, crowded, go, maizies)
+},
+]

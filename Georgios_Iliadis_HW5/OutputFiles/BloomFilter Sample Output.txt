@@ -1,0 +1,324 @@
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 6
+Count: 6
+
+
+Bloom Filter estimated correctly that tweet might be present: 4
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 3
+Count: 7
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 4
+Count: 4
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 4
+Count: 4
+
+
+Bloom Filter estimated correctly that tweet might be present: 1
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 2
+
+
+Bloom Filter estimated correctly that tweet might be present: 2
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 0
+Count: 2
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 3
+Count: 3
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 3
+Count: 3
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 2
+Count: 2
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 3
+Count: 3
+
+
+Bloom Filter estimated correctly that tweet might be present: 1
+Bloom FIlter estimated correctly that tweet won't be present: 1
+Bloom Filter estimated incorrectly that tweet might be present: 0
+Count: 2
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 5
+Count: 5
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 7
+Count: 7
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 4
+Count: 4
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 2
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 0
+Count: 2
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 1
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 2
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 4
+Count: 4
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 1
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 0
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 1
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 0
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 1
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 0
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 4
+Count: 4
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 1
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 2
+
+
+Bloom Filter estimated correctly that tweet might be present: 4
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 0
+Count: 4
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 1
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 2
+
+
+Bloom Filter estimated correctly that tweet might be present: 1
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 0
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 1
+Count: 1
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 2
+Count: 2
+
+
+Bloom Filter estimated correctly that tweet might be present: 1
+Bloom FIlter estimated correctly that tweet won't be present: 1
+Bloom Filter estimated incorrectly that tweet might be present: 4
+Count: 6
+
+
+Bloom Filter estimated correctly that tweet might be present: 1
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 2
+Count: 3
+
+
+Bloom Filter estimated correctly that tweet might be present: 0
+Bloom FIlter estimated correctly that tweet won't be present: 0
+Bloom Filter estimated incorrectly that tweet might be present: 3
+Count: 3

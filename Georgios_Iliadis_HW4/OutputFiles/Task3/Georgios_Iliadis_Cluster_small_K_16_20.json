@@ -1,0 +1,99 @@
+algorithm : KMeans,
+WSSE: 1164.567127984576,clusters:[ {
+	id: 1,
+	size: 1,
+	error: 15.687770078343775,
+	terms: List(station, good, place, time, like, service, great, one, get, go)
+},
+{
+	id: 2,
+	size: 6,
+	error: 89.2549423108933,
+	terms: List(like, good, place, one, food, great, menu, also, little, would)
+},
+{
+	id: 3,
+	size: 9,
+	error: 109.083472269248,
+	terms: List(12, coffee, also, tea, get, great, tell, really, good)
+},
+{
+	id: 4,
+	size: 1,
+	error: 10.61923030765468,
+	terms: List(time, great, place, back, good, get, really, like, would, one)
+},
+{
+	id: 5,
+	size: 7,
+	error: 58.2723922506274,
+	terms: List(would, back, get, us, said, also, told, like, never, one)
+},
+{
+	id: 6,
+	size: 1,
+	error: 29.52656425101463,
+	terms:List(like, get, back, time, even, one, great, would, got, day)
+},
+{
+	id: 7,
+	size: 91,
+	error: 262.48513032683117,
+	terms: List(thai, came, pad, still, yes, know, go, food, chocolate, food),
+},
+{
+	id: 8,
+	size: 1,
+	error: 16.66130688208994,
+	terms: List(sauce, great, would, good, dish, cheese, like, menu, cream, served),
+},
+{
+	id: 9,
+	size: 1,
+	error: 12.62659465108933,
+	terms: List(ever, glad, one, cafes, average, finally, four, prices, saying, great)
+},
+{
+	id: 10,
+	size: 1,
+	error: 17.0278362269248,
+	terms: List(said, one, match, find, easy, hour, happy, want, like, final)
+},
+{
+	id: 11,
+	size: 1,
+	error: 9.61954330765468,
+	terms: List(let, different, old, top, good, row, things, open, like, go)
+},
+{
+	id: 12,
+	size: 1,
+	error: 18.2873925506274,
+	terms: List(course, care, could, street, parents, place, meal, easy, fact, service)
+},
+{
+	id: 13,
+	size: 876,
+	error: 473.76256425101463,
+	terms:List(time, plan, drink, like, friend, simple, food, balance, great, full)
+},
+{
+	id: 14,
+	size: 1,
+	error: 19.48512303683117,
+	terms: List(friends, place, best, top, came, last, time, atmospheres, even, staff),
+},
+{
+	id: 15,
+	size: 1,
+	error: 0.0,
+	terms: List(years, wall, quite, food, quick, perfect, large, lost, way, going),
+},
+{
+	id: 16,
+	size: 1,
+	error: 28.30661688208994,
+	terms: List(fresh, soft, winner, say, didnt, like, room, people, young, sets),
+},]
+
+

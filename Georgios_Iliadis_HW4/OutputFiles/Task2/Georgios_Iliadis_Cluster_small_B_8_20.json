@@ -1,0 +1,49 @@
+algorithm : Bisceting K-Means,
+WSSE: 2283.567127984576,clusters:[ {
+	id: 1,
+	size: 384,
+	error: 159.687770078343775,
+	terms: List(food, good, place, time, like, service, great, one, get, go)
+},
+{
+	id: 2,
+	size: 249,
+	error: 172.62659465108933,
+	terms: List(like, good, place, one, food, great, menu, also, little, would)
+},
+{
+	id: 3,
+	size: 159,
+	error: 107.0278362269248,
+	terms: List(like, place, great, good, coffee, one, really, also, tea, get)
+},
+{
+	id: 4,
+	size: 104,
+	error: 104.61923030765468,
+	terms: List(time, get, really, like, would, one, great, place, back, good)
+},
+{
+	id: 5,
+	size: 27,
+	error: 108.2873925506274,
+	terms: List(would, back, get, us, said, also, told, like, never, one)
+},
+{
+	id: 6,
+	size: 28,
+	error: 229.52656425101463,
+	terms:List(like, get, back, time, even, one, great, would, got, day)
+},
+{
+	id: 7,
+	size: 29,
+	error: 219.48512303683117,
+	terms: List(thai, came, pad, still, yes, know, go, food, chocolate, food),
+},
+{
+	id: 8,
+	size: 20,
+	error: 162.30661688208994,
+	terms: List(sauce, great, would, good, dish, cheese, like, menu, cream, served),
+

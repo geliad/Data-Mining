@@ -1,0 +1,98 @@
+algorithm : Bisecting K-Means,
+WSSE: 3272.15267984576,clusters:[ {
+	id: 1,
+	size: 258,
+	error: 352.677370078343775,
+	terms: List(like, good, time, like, service, great, also, one, go, get)
+},
+{
+	id: 2,
+	size: 163,
+	error: 299.25723108933,
+	terms: List(time, that, wine, good, great, like, and, you, back, day)
+},
+{
+	id: 3,
+	size: 117,
+	error: 281.033472269248,
+	terms: List(also, tea, great, tell, really, good, 12, coffee, get, new)
+},
+{
+	id: 4,
+	size: 87,
+	error: 321.92523030765468,
+	terms: List(really, one, week, life, see, items, always, best, thing, word)
+},
+{
+	id: 5,
+	size: 74,
+	error: 182.573323922506274,
+	terms: List(us, said, also, would, one, back, get, told, like, never)
+},
+{
+	id: 6,
+	size: 63,
+	error: 173.2565925101463,
+	terms:List(food, well, like, little, find, back, get, go, good, great)
+},
+{
+	id: 7,
+	size: 42,
+	error: 162.85143032683117,
+	terms: List(back, find, sure, also, went, look, meal, say, time, night)
+},
+{
+	id: 8,
+	size: 40,
+	error: 162.13390688208994,
+	terms: List(great, would, served, good, dish, like, menu, cream, soda, meal),
+},
+{
+	id: 9,
+	size: 43,
+	error: 204.726529465108933,
+	terms: List(ever, cafes, average, finally, prices, saying, great, book, milk, even)
+},
+{
+	id: 10,
+	size: 35,
+	error: 178.9318364571528,
+	terms: List(wake, happy, like, match, find, easy, hour, said, final, door)
+},
+{
+	id: 11,
+	size: 27,
+	error: 182.674254330765468,
+	terms: List(easy, fact, course, service, could, enough, parents, great, meal, dishes)
+
+},
+{
+	id: 12,
+	size: 26,
+	error: 189.2726425506274,
+	terms: List(meat, different, old, like, good, row, things, well, like, go)
+},
+{
+	id: 13,
+	size: 15,
+	error: 181.6532642101463,
+	terms:List(really, plan, know, socks, sale, simple, time, people, great, job)
+},
+{
+	id: 14,
+	size: 5,
+	error: 139.51672303683117,
+	terms: List(back, dont, hot, work, best, together, last, time, even, made)
+},
+{
+	id: 15,
+	size: 3,
+	error: 148.665492313994,
+	terms: List(years, get, quite, minutes, quick, took, big, lost, also, went)
+},
+{
+	id: 16,
+	size: 2,
+	error: 119.661688208994,
+	terms: List(small, night, card, tourists, didnt, go, room, people, extra, big)
+},]

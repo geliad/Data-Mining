@@ -1,0 +1,33 @@
+algorithm : Kmeans,
+WSSE : 123041.667271812,clusters: [ {
+	id: 1,
+	size: 18,
+	error: 86911.18553091357,
+	terms: List(sauce, great, would, good, dish, cheese, like, menu, cream, served)
+},
+{
+	id: 2,
+	size: 857,
+	error: 2238.33333333332,
+	terms: List(good, place, like, food, great, one, time, get, service, go]
+},
+{
+	id: 3,
+	size: 64,
+	error: 15772.3793103437,
+	terms: List(us, would, said, back, get, time, even, could, like, told)
+},
+{
+	id: 4,
+	size: 3,
+	error: 21126.046875,
+	terms: List(food, place, dark, one, megas, like, eating, mugshot, space, time)
+},
+{
+	id: 5,
+	size: 58,
+	error: 6993.722222222134,
+	terms:List(like, one, food, place, time, good, get, little, back, menu)
+},
+]
+
